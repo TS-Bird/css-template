@@ -1,2 +1,0 @@
-# css-template
-css-template
